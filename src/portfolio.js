@@ -7,11 +7,11 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Miftaul Mannan",
+  title: "Victor Ikeme",
   logo_name: "Miftaul Mannan",
   nickname: null,
   subTitle:
-    "An aspiring developer who loves to take on new projects that challenges his analytical and technological capacities.",
+    "A Platform Engineer crafting self-service IDPs with automated and standardized golden paths to accelerate cloud-native delivery and enhance developer experience.",
   resumeLink:
     "https://drive.google.com/file/d/1ecfeM8pNH7aLELi5EINHrX8-jY5Uqb0q/view?usp=sharing",
   portfolio_repository: "https://github.com/cloudikeme",
@@ -61,46 +61,46 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Full Stack Development",
+      title: "Platform Engineering",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website using NextJs and React",
-        "⚡ Implementing secure access to database",
+        "⚡ Building and maintaining golden paths and internal developer platforms",
+        "⚡ Implementing Platform Engineering best practices and culture to teams",
         "⚡ Creating application backend in .Net Core",
         "⚡ Implementing dynamic script execution defined by user",
       ],
       softwareSkills: [
         {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
+          skillName: "Kubernetes",
+          fontAwesomeClassname: "simple-icons:kubernetes",
           style: {
-            color: "#61DAFB",
+            color: "#326CE5",
           },
         },
         {
-          skillName: "NextJs",
-          fontAwesomeClassname: "akar-icons:nextjs-fill",
+          skillName: "Argo",
+          fontAwesomeClassname: "devicon:argocd",
           style: {
             color: "#626262",
           },
         },
         {
-          skillName: ".Net Core",
-          fontAwesomeClassname: "mdi:dot-net",
+          skillName: "Backstage",
+          fontAwesomeClassname: "simple-icons:backstage",
           style: {
             color: "#5C2D91",
           },
         },
         {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          skillName: "AWS",
+          fontAwesomeClassname: "skill-icons:aws-light",
           style: {
             color: "#339933",
           },
         },
         {
-          skillName: "Redux",
-          fontAwesomeClassname: "tabler:brand-redux",
+          skillName: "GO",
+          fontAwesomeClassname: "lineicons:go",
           style: {
             color: "#7749bd",
           },
@@ -113,38 +113,38 @@ const skills = {
           },
         },
         {
-          skillName: "TypeScript",
-          fontAwesomeClassname: "devicon:typescript",
+          skillName: "Python",
+          fontAwesomeClassname: "material-icon-theme:python",
           style: {
             color: "#3178c6",
           },
         },
         {
-          skillName: "C#",
-          fontAwesomeClassname: "teenyicons:c-sharp-solid",
+          skillName: "Linux",
+          fontAwesomeClassname: "devicon:linux",
           style: {
             color: "#953dac",
           },
         },
         {
-          skillName: "MS SQL Server",
-          fontAwesomeClassname: "tabler:sql",
+          skillName: "GCP",
+          fontAwesomeClassname: "material-icon-theme:gcp",
           style: {
             color: "#c42626",
           },
         },
         {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "vscode-icons:file-type-mongo",
+          skillName: "Openshift",
+          fontAwesomeClassname: "skill-icons:openshift",
           style: {
             color: "#c42626",
           },
         },
         {
-          skillName: "Firebase",
-          fontAwesomeClassname: "logos:firebase",
+          skillName: "CNCF",
+          fontAwesomeClassname: "simple-icons:cncf",
           style: {
-            color: "#c42626",
+            color: "#0086FF",
           },
         },
         {
@@ -155,29 +155,43 @@ const skills = {
           },
         },
         {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
+          skillName: "Red Hat",
+          fontAwesomeClassname: "logos:redhat-icon",
           style: {
             color: "#E34F26",
           },
         },
         {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
+          skillName: "Azure",
+          fontAwesomeClassname: "material-icon-theme:azure",
           style: {
             color: "#1572B6",
           },
         },
         {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
+          skillName: "Version Control",
+          fontAwesomeClassname: "qlementine-icons:version-control-16",
           style: {
             color: "#CC6699",
           },
         },
         {
-          skillName: "Tailwind CSS",
-          fontAwesomeClassname: "file-icons:tailwind",
+          skillName: "Terraform",
+          fontAwesomeClassname: "devicon:terraform",
+          style: {
+            color: "#38bdf8",
+          },
+        },
+        {
+          skillName: "Crossplane",
+          fontAwesomeClassname: "logos:crossplane-icon",
+          style: {
+            color: "#38bdf8",
+          },
+        },
+        {
+          skillName: "Prometheus",
+          fontAwesomeClassname: "devicon:prometheus",
           style: {
             color: "#38bdf8",
           },
@@ -191,12 +205,12 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "90%", //Insert relative proficiency in percentage
+      Stack: "DevX Platform Engineering", //Insert stack or technology you have experience in
+      progressPercentage: "70%", //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
-      progressPercentage: "70%",
+      Stack: "Infrastructure Platform Engineering",
+      progressPercentage: "90%",
     },
     {
       Stack: "Programming",
@@ -210,35 +224,35 @@ const sLanguage = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "React",
+      Stack: "Kubernetes",
       progressPercentage: "90%",
     },
     {
-      Stack: "NextJs",
+      Stack: "Linux",
       progressPercentage: "70%",
     },
     {
-      Stack: "JavaScript",
+      Stack: "Backstage",
       progressPercentage: "80%",
     },
     {
-      Stack: "TypeScript",
+      Stack: "Terraform",
       progressPercentage: "70%",
     },
     {
-      Stack: "Redux",
+      Stack: "Openshift",
       progressPercentage: "70%",
     },
     {
-      Stack: ".Net Core",
+      Stack: "Crossplane",
       progressPercentage: "70%",
     },
     {
-      Stack: "C#",
+      Stack: "AWS",
       progressPercentage: "80%",
     },
     {
-      Stack: "SQL", //Insert stack or technology you have experience in
+      Stack: "YAML", //Insert stack or technology you have experience in
       progressPercentage: "80%", //Insert relative proficiency in percentage
     },
     {

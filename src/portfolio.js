@@ -11,7 +11,7 @@ const greeting = {
   logo_name: "Miftaul Mannan",
   nickname: null,
   subTitle:
-    "A Platform Engineer crafting self-service IDPs with automated and standardized golden paths to accelerate cloud-native delivery and enhance developer experience.",
+    "A Platform Engineer crafting self-service Internal Developer Platforms (IDPs) to build automated and standardized golden paths, which in turn accelerates cloud-native delivery and enhances developer experience.",
   resumeLink:
     "https://drive.google.com/file/d/1ecfeM8pNH7aLELi5EINHrX8-jY5Uqb0q/view?usp=sharing",
   portfolio_repository: "https://github.com/cloudikeme",
@@ -205,7 +205,7 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "DevX Platform Engineering", //Insert stack or technology you have experience in
+      Stack: "DeveX Platform Engineering", //Insert stack or technology you have experience in
       progressPercentage: "70%", //Insert relative proficiency in percentage
     },
     {
@@ -213,8 +213,16 @@ const techStack = {
       progressPercentage: "90%",
     },
     {
-      Stack: "Programming",
+      Stack: "Cloud-Native Technologies",
       progressPercentage: "80%",
+    },
+    {
+      Stack: "Communications (Writing/Speaking)",
+      progressPercentage: "90%",
+    },
+    {
+      Stack: "Programming",
+      progressPercentage: "60%",
     },
   ],
 };
@@ -256,11 +264,11 @@ const sLanguage = {
       progressPercentage: "80%", //Insert relative proficiency in percentage
     },
     {
-      Stack: "CSS/SASS",
+      Stack: "GCP",
       progressPercentage: "80%",
     },
     {
-      Stack: "NodeJs",
+      Stack: "Azure",
       progressPercentage: "40%",
     },
   ],

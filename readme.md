@@ -91,7 +91,7 @@ You can get a github token as described [here](https://docs.github.com/en/github
 
      git commit -m 'deploy'
 
-     git push -u origin master
+     git push -u origin main
     ```
 
 - You're all set, now visit "username.github.io" to see your website

@@ -201,6 +201,7 @@ const skills = {
   ],
 };
 
+// Proficency
 const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
